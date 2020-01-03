@@ -19,3 +19,4 @@
 # strore.github.io
 # store.github.io
 # store.github.i.o
+# store
